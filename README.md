@@ -84,15 +84,7 @@ Java Development Kit (JDK 8 or higher)
 
 No external libraries needed
 
-Uses:
-
-javax.crypto
-
-java.security
-
-java.io
-
-java.util
+Uses: javax.crypto, java.security, java.io, java.util.
 
 ⚠️ Important Notes
 💾 Don't forget your password. There's no password recovery.
